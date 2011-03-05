@@ -1,0 +1,78 @@
+Temps d'exécution sur Distance_5km (56337 sommets et 879119 arcs) :
+Graphe chargé en 14 secondes
+
+				ptas		ptas_bin	ptas_bin_up
+paris / grenoble		19.52		
+paris / dijon		19.10
+paris / toulouse		17.38
+paris / brest		 5.88
+paris / rouen		14.89
+paris / lille		 8.06
+paris / aix			 1.14
+paris / lyon		 0.19
+paris / nancy		 9.22
+paris / pau			11.90
+paris / cannes		20.34
+paris / nimes		20.37
+paris / amiens		10.87
+paris / albi		18.10
+paris / metz		 2.37
+paris / nice		 6.78
+
+grenoble / paris		14.04
+grenoble / dijon		 6.71
+grenoble / toulouse	14.36
+grenoble / brest		 7.72
+grenoble / rouen		11.67
+grenoble / lille		11.81
+grenoble / aix		 0.01
+grenoble / lyon		17.97
+grenoble / nancy		 3.37
+grenoble / pau		12.84
+grenoble / cannes		18.92
+grenoble / nimes		19.89
+grenoble / amiens		 0.03
+grenoble / albi		16.02
+grenoble / metz		 0.35
+grenoble / nice		 1.46
+
+dijon / paris		
+dijon / grenoble		
+dijon / toulouse		
+dijon / brest		
+dijon / rouen		
+dijon / lille		
+dijon / aix			
+dijon / lyon		
+dijon / nancy		
+dijon / pau			
+dijon / cannes		
+dijon / nimes		
+dijon / amiens		
+dijon / albi		
+dijon / metz		
+dijon / nice		
+
+aix / paris			11.50
+aix / grenoble		 8.07
+aix / dijon			13.99
+aix / toulouse		19.90
+aix / brest			 2.31
+aix / rouen			18.42
+aix / lille			 5.03
+aix / lyon			16.98
+aix / nancy			 0.58
+aix / pau			 9.75
+aix / cannes		19.58
+aix / nimes			20.27
+aix / amiens		 1.85
+aix / albi			10.63
+aix / metz			 0.03
+aix / nice			 0.20
+
+
+
+
+
+
+

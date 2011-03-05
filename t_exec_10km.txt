@@ -1,0 +1,77 @@
+Temps d'exécution sur Distance_10km (77_450 sommets et 6_078_306 arcs) :
+Graphe chargé en 228 secondes (3 min et 48 sec)
+
+				ptas		ptas_bin	ptas_bin_up		nb_villes	km 		nb_elts_tas
+paris / grenoble		360.90	 129.73	0.62			5/5/5				/ 146_829 / 148_415
+paris / dijon		428.13	  74.93	0.73			5/5/4				/ 140_456 / 152_612
+paris / toulouse		482.07	 635.80	1.47			4/4/4				/ 167_276 / 165_362
+paris / brest		110.54	   1.43	0.16			4/4/4				/  58_170 /  84_766
+paris / rouen		 16.68	   1.49	0.13			3/3/3		//3		/  58_400 /  71_187
+paris / lille		363.69	 141.13	0.65			5/5/5		//5		/ 147_911 / 149_344
+paris / aix			511.74	 432.12	1.27			5/6/6		//6		/ 162_270 / 163_678
+paris / lyon		296.11	  55.47	0.29			3/3/3		//4		/ 134_678 / 114_778
+paris / nancy		542.64	 715.02	2.11			5/5/5		//7		/ 167_628 / 169_908
+paris / pau			 22.12	   0.12	0.06			4/4/4		//3		/  27_176 /  37_105
+paris / cannes		555.14	1198.00	2.20			7/6/7		//8		/ 171_396 / 170_289
+paris / nimes		510.30			2.94			5//5		//9		/	    / 172_136
+paris / amiens		334.83						5		
+paris / albi		486.47						5		
+paris / metz		434.50						5		
+paris / nice		321.37						4		
+
+grenoble / paris		463.61						4		
+grenoble / dijon		320.78						5		
+grenoble / toulouse	334.56						5		
+grenoble / brest		419.71						5		
+grenoble / rouen		399.04						5		
+grenoble / lille		402.03						4		
+grenoble / aix		381.21						4		
+grenoble / lyon		489.63						5		
+grenoble / nancy		486.09						4		
+grenoble / pau		252.61						4		
+grenoble / cannes		472.36						5		
+grenoble / nimes		484.83						5		
+grenoble / amiens		386.36						6		
+grenoble / albi		511.69						6		
+grenoble / metz		352.71						5		
+grenoble / nice		440.21						5		
+
+dijon / paris		
+dijon / grenoble		
+dijon / toulouse		
+dijon / brest		
+dijon / rouen		
+dijon / lille		
+dijon / aix			
+dijon / lyon		
+dijon / nancy		
+dijon / pau			
+dijon / cannes		
+dijon / nimes		
+dijon / amiens		
+dijon / albi		
+dijon / metz		
+dijon / nice		
+
+aix / paris			
+aix / grenoble		
+aix / dijon			
+aix / toulouse		
+aix / brest			
+aix / rouen			
+aix / lille			
+aix / lyon			
+aix / nancy			
+aix / pau			
+aix / cannes		
+aix / nimes			
+aix / amiens		
+aix / albi			
+aix / metz			
+aix / nice			
+
+
+
+
+
+
